@@ -1,0 +1,19 @@
+.map-container-6{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+    .text{
+        color: rgb(124, 86, 37);
+        height: 70px;
+        width: 65%;
+        border-bottom: 3px solid rgb(179, 158, 199);
+    }
